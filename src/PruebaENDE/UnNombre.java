@@ -7,8 +7,7 @@ public class UnNombre {
 
 		int variable = 0;
 		
-		
-		
+		System.out.print("otra rama");
 	}
 
 }
